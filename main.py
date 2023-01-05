@@ -228,9 +228,3 @@ while True:
     main_menu()
 pygame.quit()
 
-#Satvik will explain the variable part
-#Akshat will explain main function
-#Aradhya will explain draw function
-#Khushi will explain reset_game function
-#Sargam will explain main menu function
-#Yashi will explain cutscene function
